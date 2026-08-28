@@ -1,0 +1,8 @@
+{
+  "name": "RO_LootFilter_resources",
+  "version": "1.0.0",
+  "timestamp": "2026-08-28T17:39:28+02:00",
+  "description": "Combat text item resource packs for RO_LootManager, containing profile-specific 3D item model and scaling data extracted from Rose Online installations.",
+  "author": "MartinBStudio",
+  "repository": "https://github.com/MartinBStudio/RO_CombatText_resources"
+}
