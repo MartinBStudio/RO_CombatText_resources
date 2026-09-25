@@ -1,0 +1,27 @@
+This pack installs 25 files. To uninstall, delete these:
+
+3ddata\EFFECT\Particles\Texture\Critical.DDS
+3ddata\EFFECT\Particles\Texture\_void_bat_flock.dds
+3ddata\EFFECT\Particles\Texture\_void_mute_01.dds
+3ddata\EFFECT\Particles\Texture\_void_sleep_01.dds
+3ddata\EFFECT\Particles\Texture\_void_stun_01.dds
+3ddata\EFFECT\Particles\_CRITICAL_01.PTL
+3ddata\EFFECT\Particles\_void_mute_01.ptl
+3ddata\EFFECT\Particles\_void_sleep_01.ptl
+3ddata\EFFECT\Particles\_void_stun_01.ptl
+3ddata\EFFECT\Particles\c_hit_01.ptl
+3ddata\EFFECT\Special\DIGITNUMBER01.DDS
+3ddata\EFFECT\Special\DIGITNUMBER02.DDS
+3ddata\EFFECT\Special\DIGITNUMBER03.DDS
+3ddata\EFFECT\Special\DIGITNUMBER04.DDS
+3ddata\EFFECT\Special\DIGITNUMBER05.DDS
+3ddata\EFFECT\Special\DIGITNUMBER06.DDS
+3ddata\EFFECT\Special\DIGITNUMBERABSORB01.DDS
+3ddata\EFFECT\Special\DIGITNUMBERBLOCK01.DDS
+3ddata\EFFECT\Special\DIGITNUMBERBLOCK02.DDS
+3ddata\EFFECT\Special\DIGITNUMBEREVADE01.DDS
+3ddata\EFFECT\Special\DIGITNUMBERIMMUNE01.DDS
+3ddata\EFFECT\Special\DIGITNUMBERMISS.DDS
+3ddata\EFFECT\_FAINTING_01.EFT
+3ddata\EFFECT\_MUTE_01.EFT
+3ddata\EFFECT\_SLEEP_01.EFT
