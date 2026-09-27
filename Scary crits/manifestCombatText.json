@@ -1,11 +1,11 @@
 {
   "name": "Scary crits",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "upload_date": "2026-09-20T12:40:19.873+02:00",
   "description": "Red and black crits",
   "url": "",
   "managedSubfolders": [
     "FILE_LIST.txt"
   ],
-  "author": "Unknown"
+  "author": "Stelfy"
 }
