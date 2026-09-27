@@ -1,0 +1,12 @@
+{
+  "name": "Spooky Halloween",
+  "version": "1.0.0",
+  "upload_date": "2026-09-24T09:15:00.000-04:00",
+  "createdAt": "2026-09-24T09:15:00.000-04:00",
+  "description": "Void Halloween combat text: damage numbers in six colours, the miss, evade, block, immune and absorb words, status words, and a flock of bats on every crit.",
+  "url": "https://forum.roseonlinegame.com/topic/7798-spooky-ui-combat-text-and-other-halloween-themed-fun/",
+  "managedSubfolders": [
+    "EFFECT"
+  ],
+  "author": "Kyio"
+}
